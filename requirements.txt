@@ -1,0 +1,6 @@
+obspy
+fatiando
+pysit
+segyio
+matplotlib
+numpy
