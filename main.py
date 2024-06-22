@@ -5,7 +5,7 @@ from src.simulation import carregar_dados_segy, configurar_simulacao, realizar_s
 from src.view import visualizar_resultados
 
 def main():
-    arquivo_segy = "seismic-simulation/data/segy_ativa/3.SGY"
+    arquivo_segy = "data/segy_ativa/3.SGY"
 
     # Ler e interpretar dados SEG-Y
     stream = ler_dados_segy(arquivo_segy)
