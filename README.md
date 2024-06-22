@@ -1,2 +1,2 @@
-# mobius-strip-simulation-eletromagnetics
-Simulação de Ondas Eletromagnéticas numa fita de Mobius: uma geometria não orientável.
+# seismic-smimulation
+testando simulação de propagação sismica com dados segy
